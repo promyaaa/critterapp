@@ -1,0 +1,1166 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"to",
+				"to_name"
+			],
+			[
+				"from",
+				"from_name"
+			],
+			[
+				"vist",
+				"vista_graph"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"vista",
+				"vista_img"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"h",
+				"href"
+			],
+			[
+				"SQL",
+				"SQLSelectDevice"
+			],
+			[
+				"Q",
+				"Query"
+			],
+			[
+				"af",
+				"afterVal"
+			],
+			[
+				"aux_",
+				"aux_filtro_btn"
+			],
+			[
+				"aux",
+				"aux_filtro_btn"
+			],
+			[
+				"fi",
+				"filtroCSS"
+			],
+			[
+				"cl",
+				"click"
+			],
+			[
+				"che",
+				"checked"
+			],
+			[
+				"T",
+				"TBP"
+			],
+			[
+				"M",
+				"MP"
+			],
+			[
+				"n",
+				"nav	Tag"
+			],
+			[
+				"Tag",
+				"TagTimestamp"
+			],
+			[
+				"lO",
+				"LowLow"
+			],
+			[
+				"Low",
+				"LowLow"
+			],
+			[
+				"Dato",
+				"_Dato_Monitor"
+			],
+			[
+				"_Hi",
+				"_HiHi"
+			],
+			[
+				"_Id_",
+				"_Id_Var"
+			],
+			[
+				"Var",
+				"VariableName"
+			],
+			[
+				"sql",
+				"sqlDatosMonitor"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"Da",
+				"DatePickerFinal"
+			],
+			[
+				"j",
+				"json_data"
+			],
+			[
+				"json",
+				"json_pt"
+			],
+			[
+				"Ma",
+				"MainMatrix"
+			],
+			[
+				"Va",
+				"VariableDevice"
+			],
+			[
+				"A",
+				"ArraySector"
+			],
+			[
+				"stmt",
+				"stmtSQLDevice"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"tooltip_",
+				"tooltip_alarm"
+			],
+			[
+				"lo",
+				"load_matriz_data"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"i",
+				"inline"
+			],
+			[
+				"c",
+				"cursor"
+			],
+			[
+				"b",
+				"big"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"he",
+				"header	Tag"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"con",
+				"cont"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"sq",
+				"sqlVariables"
+			],
+			[
+				"st",
+				"stmtAlarm"
+			],
+			[
+				"macro",
+				"Macropera"
+			],
+			[
+				"pad",
+				"padding-top"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"ar",
+				"article	Tag"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"Variable",
+				"VariableName"
+			],
+			[
+				"array_re",
+				"array_reverse"
+			],
+			[
+				"Variab",
+				"VariableName"
+			],
+			[
+				"V",
+				"VarDev"
+			],
+			[
+				"geo",
+				"geoDatos"
+			],
+			[
+				"Vr",
+				"VarDatos"
+			],
+			[
+				"Vare",
+				"VarDev"
+			],
+			[
+				"Varia",
+				"VariableName"
+			],
+			[
+				"s",
+				"script	Tag"
+			],
+			[
+				"border-r",
+				"border-right"
+			],
+			[
+				"th",
+				"th	Tag"
+			],
+			[
+				"pos",
+				"pos_left"
+			],
+			[
+				"t",
+				"th	Tag"
+			],
+			[
+				"php",
+				"phpinfo"
+			],
+			[
+				"bo",
+				"bottom"
+			],
+			[
+				"pop",
+				"popup-tool"
+			],
+			[
+				"device",
+				"devices"
+			],
+			[
+				"min-",
+				"min-width"
+			],
+			[
+				"re",
+				"no-repeat"
+			],
+			[
+				"op",
+				"option	Tag"
+			],
+			[
+				"MAR",
+				"margin-top"
+			],
+			[
+				"INT",
+				"INT"
+			],
+			[
+				"TagV",
+				"TagValue_psi"
+			],
+			[
+				"Value",
+				"ValuePT101"
+			],
+			[
+				"render",
+				"Render_Color"
+			],
+			[
+				"bord",
+				"border"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"pading",
+				"padding-top"
+			],
+			[
+				"max-w",
+				"max-width"
+			],
+			[
+				"_",
+				"_GET"
+			],
+			[
+				"ul",
+				"ultimo_elem"
+			],
+			[
+				"is_",
+				"is_array"
+			],
+			[
+				"setN",
+				"setNbit"
+			],
+			[
+				"sector",
+				"sectorID"
+			],
+			[
+				"macr",
+				"macroID"
+			],
+			[
+				"I",
+				"InnoDB"
+			],
+			[
+				"mysql_re",
+				"mysql_real_escape_string"
+			],
+			[
+				"ses",
+				"_SESSION"
+			],
+			[
+				"mysql_s",
+				"mysql_real_escape_string"
+			],
+			[
+				"CON",
+				"CON_USR"
+			],
+			[
+				"CR_",
+				"CR_USR"
+			],
+			[
+				"border-top",
+				"border-top-left-radius"
+			],
+			[
+				"borde",
+				"border-radius"
+			],
+			[
+				"pd",
+				"padding-top"
+			],
+			[
+				"f",
+				"font-size"
+			],
+			[
+				"scr",
+				"scripts"
+			],
+			[
+				"mr",
+				"margin-top"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"prin",
+				"print_r"
+			],
+			[
+				"e",
+				"echo	echo \"…\""
+			],
+			[
+				"pozo",
+				"pozo_info"
+			],
+			[
+				"ID",
+				"ID_fecha"
+			],
+			[
+				"N",
+				"NULL"
+			],
+			[
+				"pozos",
+				"pozos_fecha"
+			],
+			[
+				"id",
+				"ID_pozos"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "application/routes.php",
+			"settings":
+			{
+				"buffer_size": 3996,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "application/config/database.php",
+			"settings":
+			{
+				"buffer_size": 3407,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "application/config/auth.php",
+			"settings":
+			{
+				"buffer_size": 2272,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "application/config/application.php",
+			"settings":
+			{
+				"buffer_size": 7757,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "laravel/database/query.php",
+			"settings":
+			{
+				"buffer_size": 22138,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "application/bundles.php",
+			"settings":
+			{
+				"buffer_size": 1451,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "application/views/home/index.blade.php",
+			"settings":
+			{
+				"buffer_size": 1668,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 311.0,
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"Pack",
+				"Package Control: List Packages"
+			],
+			[
+				"Pa",
+				"Preferences: Browse Packages"
+			],
+			[
+				"Package Control",
+				"Package Control: List Packages"
+			],
+			[
+				"Prexi",
+				"Preferences: Prefixr Key Bindings – User"
+			],
+			[
+				"pack",
+				"Preferences: Browse Packages"
+			],
+			[
+				"PACK",
+				"Package Control: List Packages"
+			],
+			[
+				"",
+				"View: Toggle Status Bar"
+			],
+			[
+				"HTML",
+				"Set Syntax: HTML"
+			],
+			[
+				"SQL",
+				"Set Syntax: SQL"
+			],
+			[
+				"Ja",
+				"Set Syntax: Java"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"sql",
+				"Set Syntax: SQL"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"PHP",
+				"Set Syntax: PHP"
+			],
+			[
+				"HTM",
+				"Set Syntax: HTML"
+			],
+			[
+				"CSS",
+				"Set Syntax: CSS"
+			],
+			[
+				"Install",
+				"Package Control: Install Package"
+			],
+			[
+				"INTALL",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 512.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/wamp/www/laravel/application/bundles.php",
+		"/C/wamp/www/laravel/public/.htaccess",
+		"/C/wamp/www/laravel/application/config/application.php",
+		"/C/wamp/www/final/admin/index.php",
+		"/C/wamp/www/final/admin/cabezera.php",
+		"/C/wamp/www/WM/RDA/admin/cabezera.php",
+		"/C/wamp/www/final/includes/load_data_matriz.php",
+		"/C/wamp/www/final/admin/core/MainMatrix.class.php",
+		"/C/wamp/www/final/cloud_logger.sublime-project",
+		"/C/wamp/www/final/includes/load_data_graph.php",
+		"/C/wamp/www/final/includes/load_data_vista.php",
+		"/C/wamp/www/final/vista.php",
+		"/C/wamp/www/final/graph.php",
+		"/C/wamp/www/final/cabezera.php",
+		"/C/wamp/www/final/js/jquery.flot.navigate.js",
+		"/C/wamp/www/final/js/funciones_graph.js",
+		"/C/wamp/www/final/js/init_graph.js",
+		"/C/wamp/www/final/js/init_vista.js",
+		"/C/wamp/www/final/login.php",
+		"/C/wamp/www/final/index.php",
+		"/C/wamp/www/final/js/init_theme.js",
+		"/C/wamp/www/final/js/init_data_matriz.js",
+		"/C/Users/TI/Downloads/537162_4022761022149_611262092_n.jpg",
+		"/C/wamp/www/final/css/style.css",
+		"/C/wamp/www/final/css/reset.css",
+		"/C/wamp/www/final/js/init_general.js",
+		"/C/wamp/www/final/config.php",
+		"/C/wamp/www/final/admin/core/Graph.class.php",
+		"/C/wamp/www/final/css/jquery-ui-1.9.2.custom.css",
+		"/C/Users/TI/Desktop/naa/naaa",
+		"/C/wamp/www/final/admin/includes/seguridad.php",
+		"/C/wamp/www/final/includes/load_date.php",
+		"/C/wamp/www/final/admin/js/init_general.js",
+		"/C/wamp/www/wl/admin/cabezera.php",
+		"/C/wamp/www/final/global_view.php",
+		"/C/wamp/www/final/admin/core/Global_View.class.php",
+		"/C/wamp/www/final/js/init_global_view.js",
+		"/C/Users/TI/Documents/JSON/package.json",
+		"/C/Users/TI/Documents/JSON/index.js",
+		"/C/wamp/www/final/admin/css/style.css",
+		"/C/wamp/www/final/admin/css/reset.css",
+		"/C/wamp/www/wl/admin/gv_xml.php",
+		"/C/wamp/www/wl/admin/global_view.php",
+		"/C/wamp/www/final/includes/load_data_global_view.php",
+		"/C/wamp/www/final/admin/includes/funciones.php",
+		"/C/wamp/www/final/admin/procesa_login.php",
+		"/C/wamp/www/final/admin/pie.php",
+		"/C/wamp/www/final/pie.php",
+		"/C/wamp/www/final/admin/logout.php",
+		"/C/wamp/www/laravel/application/views/home/index.blade.php",
+		"/C/wamp/www/laravel/public/laravel/css/style.css",
+		"/C/wamp/www/laravel/application/routes.php",
+		"/C/Users/TI/Desktop/laravel-laravel-v3.2.13-5-g23d23dd/laravel-laravel-23d23dd/public/index.php",
+		"/C/wamp/www/pozos/admin/index.php",
+		"/C/wamp/www/pozos/admin/graph.php",
+		"/C/wamp/www/pozos/admin/ajax.php",
+		"/C/wamp/www/pozos/admin/includes/funciones.php",
+		"/C/wamp/www/pozos/config.php",
+		"/C/wamp/www/final/js/init_report.js",
+		"/C/wamp/www/pozos/admin/core/bd/Db.class.php",
+		"/C/wamp/www/final/report.php",
+		"/C/wamp/www/final/includes/load_data_report.php",
+		"/C/wamp/www/wl/admin/report/controller/Conector/DBC.php",
+		"/C/Users/TI/Desktop/DBC.php",
+		"/C/wamp/www/final/includes/load_data_report_devices.php",
+		"/C/wamp/www/final/js/jquery.flot.js",
+		"/C/Users/TI/AppData/Roaming/Sublime Text 2/Packages/User/Default (Windows).sublime-keymap",
+		"/C/wamp/www/wl/admin/graph.php",
+		"/C/wamp/www/wl/admin/includes/funciones.php",
+		"/C/wamp/www/wl/admin/includes/seguridad-login.php",
+		"/C/wamp/www/wl/admin/includes/seguridad.php",
+		"/C/wamp/www/wl/login.php",
+		"/C/Users/TI/Desktop/robot_responsive_theme/css/rodimus.css",
+		"/C/Users/TI/Desktop/robot_responsive_theme/view-source responsivewebdesign.com robot .htm",
+		"/C/wamp/www/wl/admin/index.php",
+		"/C/Users/TI/Desktop/config.php",
+		"/C/Users/TI/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.Outlook/2E7DJ3GY/test.php",
+		"/C/wamp/www/cursolatam/codiguito.js",
+		"/C/wamp/www/cursolatam/jquery.js",
+		"/I/Curso_Mejorandola/index.html",
+		"/C/wamp/www/wl/admin/report/controller/getDevices.php",
+		"/C/wamp/www/wl/admin/report/controller/getDataReport.php",
+		"/C/wamp/www/wl/admin/report/js/addons/controller/index.js",
+		"/C/wamp/www/wl/admin/report.php",
+		"/C/wamp/www/final/includes/load_data_monitor.php",
+		"/C/wamp/www/final/pop.php",
+		"/C/wamp/www/final/admin/core/Login.class.php",
+		"/C/wamp/www/final/admin/core/bd/Db.class.php",
+		"/C/wamp/www/final/admin/core/bd/Conf.class.php",
+		"/C/wamp/www/wl/admin/logout.php",
+		"/C/wamp/www/wl/admin/core/Login.class.php",
+		"/C/wamp/www/final/admin/pop.php",
+		"/C/wamp/www/wl/admin/pop.php",
+		"/C/wamp/www/wl/admin/css/style.css",
+		"/C/Users/TI/Desktop/seguridad.php",
+		"/C/wamp/www/final/js/custom_tooltip.js",
+		"/C/wamp/www/final/admin/core/Alarms.class.php",
+		"/C/wamp/www/final/includes/load_last_alarm.php",
+		"/C/Users/TI/Documents/reyvolsam/www/wordpress/wp-config.php",
+		"/C/wamp/www/final/admin/includes/la.php",
+		"/C/Users/TI/Documents/reyvolsam/www/SISLOGE/admin/funciones/funciones.php",
+		"/C/Users/TI/Documents/reyvolsam/www/SISLOGE/core/funciones/funciones.php",
+		"/C/Users/TI/Documents/reyvolsam/www/SISLOGE/config.php",
+		"/C/Users/TI/Documents/reyvolsam/www/SISLOGE/core/includes/revisar_inst.php",
+		"/C/Users/TI/Documents/reyvolsam/www/SISLOGE/core/includes/comp_cabezera.php",
+		"/C/Users/TI/Documents/reyvolsam/www/SISLOGE/core/setup.php",
+		"/C/Users/TI/Documents/reyvolsam/www/SISLOGE/admin/index.php",
+		"/C/Users/TI/Documents/reyvolsam/www/SISLOGE/admin/configuracion.php",
+		"/C/Users/TI/Documents/reyvolsam/www/SISLOGE/admin/includes/seguridad.php",
+		"/C/Users/TI/Documents/reyvolsam/www/SISLOGE/admin/cabezera.php",
+		"/C/Users/TI/Documents/reyvolsam/www/SISLOGE/carga.php",
+		"/C/wamp/www/wl/admin/procesa_login.php",
+		"/C/wamp/www/wl/admin/core/bd/Db.class.php",
+		"/C/wamp/www/wl/admin/ajax.php",
+		"/C/wamp/www/wl/admin/addMail.php",
+		"/C/wamp/www/final/admin/inlcudes/load_data_matriz.php",
+		"/C/Users/TI/Documents/Recursos Web/jquery.nicescroll-master/jquery.nicescroll-master/demo/index.html",
+		"/C/wamp/www/wl/admin/includes/ver_alarmas.php",
+		"/C/wamp/www/wl/admin/includes/check_login.php",
+		"/C/wamp/www/final/js/jquery.select_skin.js",
+		"/C/Users/TI/AppData/Local/Temp/indexStyle.css",
+		"/C/wamp/www/wl/admin/report/css/controller/index.css",
+		"/C/wamp/www/final/admin/js/jquery-ui-timepicker-addon.js",
+		"/C/wamp/www/final/admin/css/jquery-ui-1.9.2.custom.css",
+		"/C/wamp/www/wl/admin/confMail.php",
+		"/C/Users/TI/Desktop/confMail.php",
+		"/C/wamp/www/final/admin/css/jsDatePick_ltr.min.css",
+		"/C/wamp/www/wl/admin/css/jsDatePick_ltr.min.css"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"id",
+			"tipo",
+			"logo_contract",
+			"Ftipo",
+			"\n}\n",
+			"}\n",
+			"0]);\n            $range",
+			"0]);\n            $",
+			"0]);\n            ",
+			"]);\n",
+			"            ",
+			"            $",
+			");\n            $",
+			"\n            ",
+			"{\n",
+			"\"",
+			"table.default",
+			"private",
+			"\"",
+			"truncate",
+			"POST",
+			";\n",
+			"$max",
+			"$min",
+			"this",
+			"wrapper",
+			"medium",
+			"ui-timepicker-div",
+			"ui-timepicker",
+			"dl",
+			"ui_tpicker_time",
+			"time_label",
+			"ui_tpicker_time_label",
+			"timepicker",
+			"notify",
+			"$clase_var",
+			"tipo",
+			"}\n",
+			"$MaxLim",
+			"GNU",
+			"GNU LESSER GENERAL PUBLIC",
+			"geoDatos",
+			"tooltip",
+			"$primer_elem",
+			"wl",
+			"error",
+			">	",
+			">\n",
+			";\n",
+			"Ninguno",
+			"<?",
+			".bubbleInfo",
+			"bubbleInfo",
+			"<?",
+			"item",
+			"Productos",
+			"Empty Cart",
+			"Agotado",
+			"user_nav",
+			"top-header-nav",
+			"top_header",
+			"z-index",
+			"_e(",
+			"_e",
+			"Please review your order",
+			"Update",
+			"?>\"/",
+			"Actualizar",
+			"Por favor revise su orden",
+			"Buy",
+			"Por favor revise su orden",
+			"Actualizar",
+			"Por favor revise su orden",
+			"Actualizar",
+			"search",
+			"include",
+			"class.pop3",
+			"submit",
+			"Actualizar",
+			"-->\n",
+			"banner",
+			"10px",
+			"$total_datos",
+			" ;",
+			"tick.label",
+			"?>\n",
+			"ticklabel",
+			"<!",
+			"tooltip",
+			"ctx",
+			"2.5",
+			"0.5",
+			"});\n",
+			"-->\n",
+			">\n",
+			"visitors",
+			"}\n",
+			"t",
+			"CR_USR",
+			"font",
+			";\n",
+			"parsea"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"                        <tr id = 'filtro_tipo'>\n                            <td colspan = '10'>\n                                <p><b>Por Tipo: </b>\n                                <input type = 'radio' name = 'tipo' class = 'custom-radio' value = '' id = 'NA' checked = 'checked' /><label for = 'NA' >No Filtrar</label>\";\n\n$stmtIS = $bd->ejecutar( $MainMatrix->GetInformationSector(\"Tipo\") );\n$ArrayISTipo = GetArrayBD($stmtIS);\nforeach ($ArrayISTipo as $ais) {\n    echo \"- <input type = 'radio' name = 'tipo' class = 'custom-radio' value = '\".$ais[\"Tipo\"].\"' id = '\".$ais[\"Tipo\"].\"' /><label for = '\".$ais[\"Tipo\"].\"'>\".$ais[\"Tipo\"].\"</label>\";\n}                           \n                    echo \" \n                            </td>\n                        <tr>\";\nSector",
+			"'",
+			"",
+			"public",
+			"'",
+			"GET",
+			"$this->_dev_max",
+			"$this->_dev_min",
+			"ok_table",
+			"No Filtrar"
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": false,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "application/routes.php",
+					"settings":
+					{
+						"buffer_size": 3996,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								746,
+								746
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 234.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "application/config/database.php",
+					"settings":
+					{
+						"buffer_size": 3407,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2311,
+								2311
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 546.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "application/config/auth.php",
+					"settings":
+					{
+						"buffer_size": 2272,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1320,
+								1320
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 117.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "application/config/application.php",
+					"settings":
+					{
+						"buffer_size": 7757,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								7749,
+								7749
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1209.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "laravel/database/query.php",
+					"settings":
+					{
+						"buffer_size": 22138,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								399,
+								399
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "application/bundles.php",
+					"settings":
+					{
+						"buffer_size": 1451,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1384,
+								1384
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "application/views/home/index.blade.php",
+					"settings":
+					{
+						"buffer_size": 1668,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								10,
+								10
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"output.find_results":
+	{
+		"height": 88.0
+	},
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/C/wamp/www/cursolatam/cursolatam.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 222.0,
+	"status_bar_visible": true
+}
