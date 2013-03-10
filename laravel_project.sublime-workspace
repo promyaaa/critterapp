@@ -467,62 +467,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "application/routes.php",
-			"settings":
-			{
-				"buffer_size": 3996,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "application/config/database.php",
-			"settings":
-			{
-				"buffer_size": 3407,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "application/config/auth.php",
-			"settings":
-			{
-				"buffer_size": 2272,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "application/config/application.php",
-			"settings":
-			{
-				"buffer_size": 7757,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "laravel/database/query.php",
-			"settings":
-			{
-				"buffer_size": 22138,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "application/bundles.php",
-			"settings":
-			{
-				"buffer_size": 1451,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "application/views/home/index.blade.php",
-			"settings":
-			{
-				"buffer_size": 1668,
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "",
 	"command_palette":
@@ -628,9 +572,23 @@
 	},
 	"file_history":
 	[
+		"/C/wamp/www/laravel/application/views/templates/main.blade.php",
+		"/C/wamp/www/laravel/application/views/new.blade.php",
+		"/C/wamp/www/laravel/application/views/home.blade.php",
+		"/C/wamp/www/laravel/application/views/login.blade.php",
+		"/C/wamp/www/laravel/application/routes.php",
+		"/C/wamp/www/laravel/application/models/post.php",
+		"/C/wamp/www/laravel/application/models/user.php",
+		"/C/wamp/www/laravel/application/views/tamplates/main.blade.php",
+		"/C/wamp/www/laravel/application/migrations/2013_03_09_180604_create_posts.php",
+		"/C/wamp/www/laravel/application/migrations/2013_03_09_180541_create_users.php",
+		"/C/wamp/www/laravel/application/views/home/index.blade.php",
 		"/C/wamp/www/laravel/application/bundles.php",
-		"/C/wamp/www/laravel/public/.htaccess",
+		"/C/wamp/www/laravel/laravel/database/query.php",
 		"/C/wamp/www/laravel/application/config/application.php",
+		"/C/wamp/www/laravel/application/config/auth.php",
+		"/C/wamp/www/laravel/application/config/database.php",
+		"/C/wamp/www/laravel/public/.htaccess",
 		"/C/wamp/www/final/admin/index.php",
 		"/C/wamp/www/final/admin/cabezera.php",
 		"/C/wamp/www/WM/RDA/admin/cabezera.php",
@@ -677,9 +635,7 @@
 		"/C/wamp/www/final/admin/pie.php",
 		"/C/wamp/www/final/pie.php",
 		"/C/wamp/www/final/admin/logout.php",
-		"/C/wamp/www/laravel/application/views/home/index.blade.php",
 		"/C/wamp/www/laravel/public/laravel/css/style.css",
-		"/C/wamp/www/laravel/application/routes.php",
 		"/C/Users/TI/Desktop/laravel-laravel-v3.2.13-5-g23d23dd/laravel-laravel-23d23dd/public/index.php",
 		"/C/wamp/www/pozos/admin/index.php",
 		"/C/wamp/www/pozos/admin/graph.php",
@@ -743,19 +699,7 @@
 		"/C/wamp/www/wl/admin/core/bd/Db.class.php",
 		"/C/wamp/www/wl/admin/ajax.php",
 		"/C/wamp/www/wl/admin/addMail.php",
-		"/C/wamp/www/final/admin/inlcudes/load_data_matriz.php",
-		"/C/Users/TI/Documents/Recursos Web/jquery.nicescroll-master/jquery.nicescroll-master/demo/index.html",
-		"/C/wamp/www/wl/admin/includes/ver_alarmas.php",
-		"/C/wamp/www/wl/admin/includes/check_login.php",
-		"/C/wamp/www/final/js/jquery.select_skin.js",
-		"/C/Users/TI/AppData/Local/Temp/indexStyle.css",
-		"/C/wamp/www/wl/admin/report/css/controller/index.css",
-		"/C/wamp/www/final/admin/js/jquery-ui-timepicker-addon.js",
-		"/C/wamp/www/final/admin/css/jquery-ui-1.9.2.custom.css",
-		"/C/wamp/www/wl/admin/confMail.php",
-		"/C/Users/TI/Desktop/confMail.php",
-		"/C/wamp/www/final/admin/css/jsDatePick_ltr.min.css",
-		"/C/wamp/www/wl/admin/css/jsDatePick_ltr.min.css"
+		"/C/wamp/www/final/admin/inlcudes/load_data_matriz.php"
 	],
 	"find":
 	{
@@ -903,197 +847,8 @@
 	"groups":
 	[
 		{
-			"selected": 0,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "application/routes.php",
-					"settings":
-					{
-						"buffer_size": 3996,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								746,
-								746
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 234.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "application/config/database.php",
-					"settings":
-					{
-						"buffer_size": 3407,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								2311,
-								2311
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 546.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "application/config/auth.php",
-					"settings":
-					{
-						"buffer_size": 2272,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1320,
-								1320
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 117.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "application/config/application.php",
-					"settings":
-					{
-						"buffer_size": 7757,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								7749,
-								7749
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 1209.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "laravel/database/query.php",
-					"settings":
-					{
-						"buffer_size": 22138,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								399,
-								399
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 5,
-					"file": "application/bundles.php",
-					"settings":
-					{
-						"buffer_size": 1451,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1384,
-								1384
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/PHP/PHP.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 6,
-					"file": "application/views/home/index.blade.php",
-					"settings":
-					{
-						"buffer_size": 1668,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								10,
-								10
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				}
 			]
 		}
 	],
@@ -1103,7 +858,7 @@
 	},
 	"input":
 	{
-		"height": 0.0
+		"height": 29.0
 	},
 	"layout":
 	{
@@ -1161,6 +916,6 @@
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 222.0,
+	"side_bar_width": 292.0,
 	"status_bar_visible": true
 }
