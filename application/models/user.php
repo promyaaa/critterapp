@@ -1,6 +1,6 @@
 <?php
 
-class User extends Eloquents
+class User extends Eloquent
 {
 
 	public function critts(){
