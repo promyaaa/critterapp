@@ -483,93 +483,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "application/controllers/home.php",
-			"settings":
-			{
-				"buffer_size": 3220,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "application/controllers/others.php",
-			"settings":
-			{
-				"buffer_size": 2059,
-				"line_ending": "Windows",
-				"name": "others.php"
-			}
-		},
-		{
-			"file": "application/controllers/user.php",
-			"settings":
-			{
-				"buffer_size": 3327,
-				"line_ending": "Windows",
-				"name": "users.php"
-			}
-		},
-		{
-			"file": "application/routes.php",
-			"settings":
-			{
-				"buffer_size": 1219,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "application/views/templates/template.blade.php",
-			"settings":
-			{
-				"buffer_size": 2344,
-				"line_ending": "Windows",
-				"name": "template.blade.php"
-			}
-		},
-		{
-			"file": "application/views/home/index.blade.php",
-			"settings":
-			{
-				"buffer_size": 1950,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "application/views/home/login.blade.php",
-			"settings":
-			{
-				"buffer_size": 952,
-				"line_ending": "Windows",
-				"name": "login.blade.php"
-			}
-		},
-		{
-			"file": "application/views/home/critterfeed.blade.php",
-			"settings":
-			{
-				"buffer_size": 917,
-				"line_ending": "Windows",
-				"name": "critterfeed.blade.php"
-			}
-		},
-		{
-			"file": "application/views/user/profile.blade.php",
-			"settings":
-			{
-				"buffer_size": 1470,
-				"line_ending": "Windows",
-				"name": "profile.blade.php"
-			}
-		},
-		{
-			"file": "application/views/others/profile.blade.php",
-			"settings":
-			{
-				"buffer_size": 1377,
-				"line_ending": "Windows",
-				"name": "profile.blade.php"
-			}
-		}
 	],
 	"build_system": "",
 	"command_palette":
@@ -677,11 +590,20 @@
 	[
 		"/C/wamp/www/laravel/application/migrations/2013_03_10_145738_create_followers_table.php",
 		"/C/wamp/www/laravel/application/migrations/2013_03_10_145636_create_critts_table.php",
-		"/C/wamp/www/laravel/application/models/follower.php",
-		"/C/wamp/www/laravel/application/models/user.php",
-		"/C/wamp/www/laravel/application/models/critt.php",
 		"/C/wamp/www/laravel/application/migrations/2013_03_10_145505_create_users_table.php",
+		"/C/wamp/www/laravel/application/models/critt.php",
+		"/C/wamp/www/laravel/application/models/user.php",
+		"/C/wamp/www/laravel/application/models/follower.php",
+		"/C/wamp/www/laravel/application/views/others/profile.blade.php",
+		"/C/wamp/www/laravel/application/views/user/profile.blade.php",
+		"/C/wamp/www/laravel/application/views/home/critterfeed.blade.php",
+		"/C/wamp/www/laravel/application/views/home/login.blade.php",
+		"/C/wamp/www/laravel/application/views/home/index.blade.php",
+		"/C/wamp/www/laravel/application/views/templates/template.blade.php",
 		"/C/wamp/www/laravel/application/routes.php",
+		"/C/wamp/www/laravel/application/controllers/user.php",
+		"/C/wamp/www/laravel/application/controllers/others.php",
+		"/C/wamp/www/laravel/application/controllers/home.php",
 		"/C/wamp/www/laravel/application/migrations/2013_03_09_180604_create_posts.php",
 		"/C/wamp/www/laravel/application/config/database.php",
 		"/C/wamp/www/laravel/application/tasks/generate.php",
@@ -692,7 +614,6 @@
 		"/C/wamp/www/laravel/application/models/post.php",
 		"/C/wamp/www/laravel/application/views/tamplates/main.blade.php",
 		"/C/wamp/www/laravel/application/migrations/2013_03_09_180541_create_users.php",
-		"/C/wamp/www/laravel/application/views/home/index.blade.php",
 		"/C/wamp/www/laravel/application/bundles.php",
 		"/C/wamp/www/laravel/laravel/database/query.php",
 		"/C/wamp/www/laravel/application/config/application.php",
@@ -794,15 +715,7 @@
 		"/C/Users/TI/Documents/reyvolsam/www/wordpress/wp-config.php",
 		"/C/wamp/www/final/admin/includes/la.php",
 		"/C/Users/TI/Documents/reyvolsam/www/SISLOGE/admin/funciones/funciones.php",
-		"/C/Users/TI/Documents/reyvolsam/www/SISLOGE/core/funciones/funciones.php",
-		"/C/Users/TI/Documents/reyvolsam/www/SISLOGE/config.php",
-		"/C/Users/TI/Documents/reyvolsam/www/SISLOGE/core/includes/revisar_inst.php",
-		"/C/Users/TI/Documents/reyvolsam/www/SISLOGE/core/includes/comp_cabezera.php",
-		"/C/Users/TI/Documents/reyvolsam/www/SISLOGE/core/setup.php",
-		"/C/Users/TI/Documents/reyvolsam/www/SISLOGE/admin/index.php",
-		"/C/Users/TI/Documents/reyvolsam/www/SISLOGE/admin/configuracion.php",
-		"/C/Users/TI/Documents/reyvolsam/www/SISLOGE/admin/includes/seguridad.php",
-		"/C/Users/TI/Documents/reyvolsam/www/SISLOGE/admin/cabezera.php"
+		"/C/Users/TI/Documents/reyvolsam/www/SISLOGE/core/funciones/funciones.php"
 	],
 	"find":
 	{
@@ -950,292 +863,8 @@
 	"groups":
 	[
 		{
-			"selected": 5,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "application/controllers/home.php",
-					"settings":
-					{
-						"buffer_size": 3220,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								2775,
-								2775
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 895.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "application/controllers/others.php",
-					"settings":
-					{
-						"buffer_size": 2059,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								2055,
-								2055
-							]
-						],
-						"settings":
-						{
-							"auto_name": "others.php",
-							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 102.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "application/controllers/user.php",
-					"settings":
-					{
-						"buffer_size": 3327,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								3323,
-								3323
-							]
-						],
-						"settings":
-						{
-							"auto_name": "users.php",
-							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 765.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "application/routes.php",
-					"settings":
-					{
-						"buffer_size": 1219,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1215,
-								1215
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/PHP/PHP.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "application/views/templates/template.blade.php",
-					"settings":
-					{
-						"buffer_size": 2344,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								2058,
-								2058
-							]
-						],
-						"settings":
-						{
-							"auto_name": "template.blade.php",
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 312.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 5,
-					"file": "application/views/home/index.blade.php",
-					"settings":
-					{
-						"buffer_size": 1950,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								360,
-								360
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 6,
-					"file": "application/views/home/login.blade.php",
-					"settings":
-					{
-						"buffer_size": 952,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								858,
-								858
-							]
-						],
-						"settings":
-						{
-							"auto_name": "login.blade.php",
-							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 7,
-					"file": "application/views/home/critterfeed.blade.php",
-					"settings":
-					{
-						"buffer_size": 917,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								917,
-								917
-							]
-						],
-						"settings":
-						{
-							"auto_name": "critterfeed.blade.php",
-							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 8,
-					"file": "application/views/user/profile.blade.php",
-					"settings":
-					{
-						"buffer_size": 1470,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1062,
-								1062
-							]
-						],
-						"settings":
-						{
-							"auto_name": "profile.blade.php",
-							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 9,
-					"file": "application/views/others/profile.blade.php",
-					"settings":
-					{
-						"buffer_size": 1377,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1377,
-								1377
-							]
-						],
-						"settings":
-						{
-							"auto_name": "profile.blade.php",
-							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				}
 			]
 		}
 	],
