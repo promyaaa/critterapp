@@ -7,7 +7,7 @@ class Create_Critts_Table {
 		Schema::create('critts', function($table) {
 			$table->increments('id');
 			$table->integer('user_id');
-			$table->text('critts');
+			$table->text('critt');
 			$table->timestamps();
 	});
 

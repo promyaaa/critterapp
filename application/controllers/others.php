@@ -35,7 +35,7 @@ class Others_Controller extends Base_Controller {
 					return Redirect::to_action('user@index');
 				} 
 				// check if the current user is already following $username
-				$following = (Follower::where('user_id', '=', Auth::user()->id)->where('following_id','=',$user_id)->get()) ? true : false ; 
+				$following = (Follower::where('user_id', '=', Auth::user()->id)->where('following_id','=',$user_id)->get()) ? true : false; 
 			}
 
 			// eager load the critts with user data

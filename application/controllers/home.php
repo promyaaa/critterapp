@@ -23,8 +23,8 @@ class Home_Controller extends Base_Controller {
 		if (Auth::guest()){
 			return View::make('home.index');
 		} else {
-			$critts = Critt::with('user') -> order_by('created_at','desc') -> paginate(10) ;
-			$count = Critt::count() ;
+			$critts = Critt::with('user') -> order_by('created_at','desc') -> paginate(10);
+			$count = Critt::count();
 			return View::make('home.critterfeed')
 				-> with('count', $count)
 				-> with('critts', $critts);

@@ -45,7 +45,7 @@ class User_Controller extends Base_Controller {
    {
      // get filtered input for the critt
      $new_critt = array(
-     'critt'     => htmlspecialchars(Input::get('new_critt'))
+        'critt'     => htmlspecialchars(Input::get('new_critt'))
     );
      
     // assign validation rules
@@ -57,10 +57,10 @@ class User_Controller extends Base_Controller {
     $validation = Validator::make($new_critt, $rules);
     if ( $validation -> fails() )
     {   
-    return Redirect::to_action('user@index')
-    ->with('user', Auth::User())
-    ->with_errors($validation)
-    ->with_input();
+      return Redirect::to_action('user@index')
+              ->with('user', Auth::User())
+              ->with_errors($validation)
+              ->with_input();
     }
 
     // attach current user's ID to the user_id in critts table
